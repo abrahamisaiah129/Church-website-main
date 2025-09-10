@@ -19,7 +19,7 @@
             font-family: 'Inter', sans-serif;
             background-color: #f8f9fa;
             /* Full-screen background image styling */
-            background-image: url('../images//ca1.png');
+            background-image: url('../images/Rectangle 4.png');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
